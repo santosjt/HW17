@@ -1,0 +1,152 @@
+
+
+
+#logo {
+    width: 200px;
+}
+
+.navbar {
+    background-color: white!important;
+    padding-top:10px;
+  
+}
+
+.navbar-nav {
+   
+}
+
+.nav-item {
+    padding-right: 20px;
+    text-align: center;
+}
+
+.socialicon {
+    text-align: center;
+    display: inline-block;
+    
+}
+
+
+#socialmedia {
+   
+}
+ul {
+    list-style: none;
+    
+}
+
+#uxDesign {
+    color:#09E5F7;
+    background-color: white;
+}
+#uxDesign:hover {
+    color: white;
+    background-color: #09E5F7;
+}
+
+#graphicDesign {
+    color: rgb(32, 32, 32);
+
+}
+#graphicDesign:hover {
+    color: white;
+    background-color: #09E5F7;
+}
+
+#marketing {
+    color: rgb(32, 32, 32);
+
+}
+#marketing:hover {
+    color: white;
+    background-color: #09E5F7;
+}
+
+#branding {
+    color: rgb(32, 32, 32);
+
+
+}
+#branding:hover {
+    color: white;
+    background-color: #09E5F7;
+}
+
+
+ 
+    
+#instagram {
+    width: 60px;
+}
+    
+#behance {
+    width: 60px;
+}
+
+#dribbble {
+    width: 60px;
+}
+#email {
+    width: 60px;
+}
+
+.card {
+    border: none;
+    margin-top: 20px;
+}
+
+.soup {
+
+}
+
+p {
+    font-size: 16px;;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.overlay_text {
+    color: white!important;
+    text-align: center;
+    align-content: 0 auto;
+    justify-content: 0 auto;
+    height: 100%;
+    padding-top: 50%;
+}
+
+.imgcontainer{
+    position: relative;
+  }
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #09E5F7;
+  }
+
+  .imgcontainer:hover .overlay {
+    opacity: 0.8;
+    width:100%;
+}
+/*
+#grids {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "about soup skan maldives";
+
+}
+
+.gridChild {
+    width:24%;
+}
+*/
